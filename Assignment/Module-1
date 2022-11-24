@@ -1,1 +1,62 @@
 Q.1 What is software? What is software engineering? 
+
+--> Software:-
+  - It is a collection of computer programs and related data that provide the instructions for 
+    telling a computer what to do and how to do it.
+  - It is just like human language.
+  - 3 main groups depending on their use and application.
+      1) System software.
+      2) Application software
+      3) Programming software
+      
+--> Software engineering:-     
+   - Software engineering is the art of developing quality software on time and within budget.
+   - Software Engineering is a systematic approach to the design, development, operation,
+     and maintenance of a software system.
+   - ―Software engineering is the multi-person construction of multi-version software.
+   
+   ------------------------------------------------------------------------------------------
+   
+Q.2 Explain types of software.
+
+--> Types of Software:-
+   - There are 3 types of software.
+      1. System Software
+      2. Applicaton software
+      3. Programming software
+      
+  -->  1. System Software
+      - System software provides the basic functions for computer usage and helps run the computer 
+      hardware and system.
+      
+      2. Applicaton software
+      - Application software is the general designation of computer programs performing user tasks.
+          -> Mobile App:
+             Application that runs on mobile platform. Example: Instagram app,
+          -> Desktop App:
+             Application that runs stand-alone in a desktop or laptop computer. 
+             Example: Microsoft Word, Web Browser.
+          -> Web App:
+             Apps that run on a web browser(Mozilla, Google Chrome etc.)
+      
+      3. Programming Software
+      - Programming is the process of designing, writing, testing, debugging, and maintaining the 
+        source code of computer programs. This source code is written in a programming language. 
+        The purpose of programming is to create a program that exhibits a certain desired behavior.
+        
+ ------------------------------------------------------------------------------------------------------       
+
+Q.3  What is SDLC? Explain each phase of SDLC
+-->  SDLC:-
+    - The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes 
+      for creating high-quality software.
+    - The SDLC methodology focuses on the following phases of software development:
+        1. Requirement Gathering
+        2. Analysis
+        3. Designing
+        4. Implementation
+        5. Testing
+        6. Maintenance
+
+---------------------------------------------------------------------------------------------------
+          -------------------------------------------------------------------------

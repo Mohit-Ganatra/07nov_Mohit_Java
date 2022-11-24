@@ -1,1 +1,26 @@
-Hii
+Q.1 Web browser vs Serch engine
+--> Web browser :-
+  - A web browser is a software application used to retrive data from websites.
+  - Web browser used a graphical interface to help user experience on WWW.
+  - Ex. Chrome, Firefox, Opera
+-->Search Engine :-
+  - Search engine is a kind of website where user can search for information and the result are displayed on the screen.
+  - It has its own database.
+  - Ex. Google search engine, Yahoo, Bing
+  
+  -------------------------------------------------------------------------
+  
+ Q.2 HTTP vs HTTPS
+ --> HTTP
+   - HTTP stands for "HyperText Transfer Protocol".
+   - HTTP works at the application layer.
+   - It is not secure.
+ --> HTTPS
+   - HTTPS stands for "HyperText Transfer Protocol Secure".
+   - HTTPS works at transport layer.
+   - Its is more secure than HTTP.
+   
+ --------------------------------------------------------------------------
+ 
+ Q.3 Error vs Bug
+ --> Error:-

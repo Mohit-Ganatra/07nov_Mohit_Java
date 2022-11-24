@@ -24,3 +24,32 @@ Q.1 Web browser vs Serch engine
  
  Q.3 Error vs Bug
  --> Error:-
+   - Occurs due to some mistake or misconception in the source code.
+   - Detected when code is to be compiled.
+      
+ --> Bug:-
+   - Occurs due to shortcomings in the software system 
+   - Detected before the software is pushed to production
+   
+  --------------------------------------------------------------------------------
+  
+  Q.4 TCP vs IP
+  --> TCP:-
+     - The transmission control protocol/internet protocol (TCP/IP) model finds its origins in the ARPANET reference model.
+     - The TCP/IP model describes how to construct communication lines for applications.
+     - The TCP/IP model has four layers:
+          - Application Layer
+          - Transport Layer
+          - Network Layer
+          - Physical Layer
+          
+ ------------------------------------------------------------------------------------ 
+ 
+ Q.5 What is Internet ?
+ --> A global system of interconnected computers, using a standardised Internet Protocol suite 
+     for communication and sharing information is called the Internet.
+   - The Internet has enabled and accelerated new forms of personal interactions through instant 
+     messaging, Internet forums, and social networking services .
+     
+--------------------------------------------------------------------------------------     
+           --------------------------------------------------------------

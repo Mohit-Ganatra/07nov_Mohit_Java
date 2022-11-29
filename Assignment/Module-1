@@ -59,4 +59,16 @@ Q.3  What is SDLC? Explain each phase of SDLC
         6. Maintenance
 
 ---------------------------------------------------------------------------------------------------
+
+Q.4 What is DFD? Create a DFD diagram on Flipkart
+--> DFD:-
+     -  A Data Flow Diagram (DFD) is a traditional way to visualize the information flows
+        within a system. A neat and clear DFD can depict a good amount of the system requirements
+        graphically. It can be manual, automated, or a combination of both.
+     -  It shows how information enters and leaves the system, what changes the information and 
+        where information is stored. The purpose of a DFD is to show the scope and boundaries of a 
+        system as a whole. It may be used as a communications tool between a systems analyst and any 
+        person who plays a part in the system that acts as the starting point for redesigning a system.
+        
+---------------------------------------------------------------------------------------------------
           -------------------------------------------------------------------------

@@ -71,5 +71,10 @@ Q.4 What is DFD? Create a DFD diagram on Flipkart
         person who plays a part in the system that acts as the starting point for redesigning a system.
         
 ---------------------------------------------------------------------------------------------------
+Q.5 What is Flow chart? Create a flowchart to make addition of two numbers 
 
+--> A flowchart is a graphical representation of an algorithm.Programmers often use it as a 
+    program-planning tool to solve a problem. It makesuse of symbols which are connected among 
+    them to indicate the flow of informationand processing.
+    The process of drawing a flowchart for an algorithm is known as ―flowcharting‖.
           -------------------------------------------------------------------------

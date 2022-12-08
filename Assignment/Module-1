@@ -71,10 +71,22 @@ Q.4 What is DFD? Create a DFD diagram on Flipkart
         person who plays a part in the system that acts as the starting point for redesigning a system.
         
 ---------------------------------------------------------------------------------------------------
+
 Q.5 What is Flow chart? Create a flowchart to make addition of two numbers 
 
 --> A flowchart is a graphical representation of an algorithm.Programmers often use it as a 
     program-planning tool to solve a problem. It makesuse of symbols which are connected among 
     them to indicate the flow of informationand processing.
     The process of drawing a flowchart for an algorithm is known as ―flowcharting‖.
-          -------------------------------------------------------------------------
+    
+---------------------------------------------------------------------------------------------------
+
+Q.6 What is Use case Diagram? Create a use-case on bill payment on paytm.
+
+--> Use case diagram is the primary form of system/software requirements for a new software program underdeveloped.
+    A use case diagram is usually simple. It does not show the detail of the use cases:
+       - It only summarizes some of the relationships between use cases, actors, and systems.
+       - It does not show the order in which steps are performed to achieve the goals of each use case.
+       
+----------------------------------------------------------------------------------------------------       
+       

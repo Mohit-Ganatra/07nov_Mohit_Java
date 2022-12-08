@@ -1,4 +1,6 @@
- #include<stdio.h>
+/* WAP to find Area of circle , reactangle, tiangle*/ 
+
+#include<stdio.h>
 
     void main()
     {

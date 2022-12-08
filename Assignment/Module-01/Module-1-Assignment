@@ -1,0 +1,92 @@
+Q.1 What is software? What is software engineering? 
+
+--> Software:-
+  - It is a collection of computer programs and related data that provide the instructions for 
+    telling a computer what to do and how to do it.
+  - It is just like human language.
+  - 3 main groups depending on their use and application.
+      1) System software.
+      2) Application software
+      3) Programming software
+      
+--> Software engineering:-     
+   - Software engineering is the art of developing quality software on time and within budget.
+   - Software Engineering is a systematic approach to the design, development, operation,
+     and maintenance of a software system.
+   - ―Software engineering is the multi-person construction of multi-version software.
+   
+   ------------------------------------------------------------------------------------------
+   
+Q.2 Explain types of software.
+
+--> Types of Software:-
+   - There are 3 types of software.
+      1. System Software
+      2. Applicaton software
+      3. Programming software
+      
+  -->  1. System Software
+      - System software provides the basic functions for computer usage and helps run the computer 
+      hardware and system.
+      
+      2. Applicaton software
+      - Application software is the general designation of computer programs performing user tasks.
+          -> Mobile App:
+             Application that runs on mobile platform. Example: Instagram app,
+          -> Desktop App:
+             Application that runs stand-alone in a desktop or laptop computer. 
+             Example: Microsoft Word, Web Browser.
+          -> Web App:
+             Apps that run on a web browser(Mozilla, Google Chrome etc.)
+      
+      3. Programming Software
+      - Programming is the process of designing, writing, testing, debugging, and maintaining the 
+        source code of computer programs. This source code is written in a programming language. 
+        The purpose of programming is to create a program that exhibits a certain desired behavior.
+        
+ ------------------------------------------------------------------------------------------------------       
+
+Q.3  What is SDLC? Explain each phase of SDLC
+-->  SDLC:-
+    - The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes 
+      for creating high-quality software.
+    - The SDLC methodology focuses on the following phases of software development:
+        1. Requirement Gathering
+        2. Analysis
+        3. Designing
+        4. Implementation
+        5. Testing
+        6. Maintenance
+
+---------------------------------------------------------------------------------------------------
+
+Q.4 What is DFD? Create a DFD diagram on Flipkart
+--> DFD:-
+     -  A Data Flow Diagram (DFD) is a traditional way to visualize the information flows
+        within a system. A neat and clear DFD can depict a good amount of the system requirements
+        graphically. It can be manual, automated, or a combination of both.
+     -  It shows how information enters and leaves the system, what changes the information and 
+        where information is stored. The purpose of a DFD is to show the scope and boundaries of a 
+        system as a whole. It may be used as a communications tool between a systems analyst and any 
+        person who plays a part in the system that acts as the starting point for redesigning a system.
+        
+---------------------------------------------------------------------------------------------------
+
+Q.5 What is Flow chart? Create a flowchart to make addition of two numbers 
+
+--> A flowchart is a graphical representation of an algorithm.Programmers often use it as a 
+    program-planning tool to solve a problem. It makesuse of symbols which are connected among 
+    them to indicate the flow of informationand processing.
+    The process of drawing a flowchart for an algorithm is known as ―flowcharting‖.
+    
+---------------------------------------------------------------------------------------------------
+
+Q.6 What is Use case Diagram? Create a use-case on bill payment on paytm.
+
+--> Use case diagram is the primary form of system/software requirements for a new software program underdeveloped.
+    A use case diagram is usually simple. It does not show the detail of the use cases:
+       - It only summarizes some of the relationships between use cases, actors, and systems.
+       - It does not show the order in which steps are performed to achieve the goals of each use case.
+       
+----------------------------------------------------------------------------------------------------       
+       
